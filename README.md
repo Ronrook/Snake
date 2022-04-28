@@ -11,7 +11,7 @@ Este proyecto fue realizado con fines educativos para el bootcamp Programate de 
 📚<h1>Contexto del proyecto</h1>
 Python es nuestra próxima aventura en lenguaje para construir nuestro backend, pero "antes de caminar hay que aprender a gatear" por lo cual vamos a aprovechar la consulta teorica realizada sobre el lenguaje para aprender de manera práctica a traves de la realización de un juego clasico conocido como Snake Game
 <h3>🛠 Tech Stack </h3>
-- 🌐 &nbsp; PYTHON
+- 🌐 &nbsp; PYTHON - POO
 
 
 <h1> 🖥 Requisitos Funcionales </h1>
