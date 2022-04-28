@@ -1,60 +1,29 @@
 <h1>Lo tienes CRUDo</h1>
 
-<img src="https://png.pngtree.com/png-vector/20190901/ourlarge/pngtree-calender-icon-design-vector-png-image_1712237.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="horario">
+<img src="https://simplonline.co/_next/image?url=https%3A%2F%2Fsimplonline-v3-prod.s3.eu-west-3.amazonaws.com%2Fmedia%2Fimage%2Fjpg%2Fc0b92a39-9310-4d32-8e15-13ea54ae3b3d.jpg&w=1280&q=75" min-width="400px" max-width="400px" width="400px" align="right" alt="horario">
 <p><em> Educamás -> <a href="https://educamas.com.co/">Programate</a> Cohorte IV FREEDOM DEVELOPER. 💻 </br>
 </em></p>
 Este proyecto fue realizado con fines educativos para el bootcamp Programate de EducaMás. 
 
 
 
-Desarrollar una aplicación "CRUD" Web en PHP que permita pedir cita a los desarrolladores y equipos para solucionar problemas técnicos con la ayuda del formador o CTO.
+
 📚<h1>Contexto del proyecto</h1>
-Nos encontramos en una empresa de desarrollo y necesitamos una aplicación que permita pedir cita al CTO para resolver problemas técnicos de los equipos de desarrollo.
+Python es nuestra próxima aventura en lenguaje para construir nuestro backend, pero "antes de caminar hay que aprender a gatear" por lo cual vamos a aprovechar la consulta teorica realizada sobre el lenguaje para aprender de manera práctica a traves de la realización de un juego clasico conocido como Snake Game
 <h3>🛠 Tech Stack </h3>
-- 🌐 &nbsp; HTML5 | CSS3 | PHP | BOOTSTRAP | MYSQL
+- 🌐 &nbsp; PYTHON
 
 
-<h1> 🖥 Requerimientos técnicos </h1>
-- Requisitos Funcionales: <br/>
-   🌐La aplicación constará de al menos 3 páginas <br/>
-           Una página para la lista con todas las citas previstas. <br/>
-           Una página con un formulario para crear una nueva cita.  <br/>
-           Una página para editar una cita concreta. <br/>
-Páginas:
-
-  🌐 Lista: Las citas beben aparecer por orden de creación con:
-           El nombre del coder o del equipo. <br/>
-           El tema de consulta. <br/>
-           Fecha y hora de la creación de la cita <br/>
-           Las citas se podrán eliminar. <br/>
-           Podremos acceder a la edición de cada cita, y a la página de creación de una cita nueva. <br/>
-           Crear nueva cita:<br/>
-           Formulario con los campos necesarios obligatorios <br/>
-           Botón para borrar los campos. <br/>
-           Botón para cancelar y volver a la lista principal <br/>
-           Botón para enviar la información <br/>
-- 🌐 Editar cita: <br/>
-      Formulario con los campos necesarios obligatorios. <br/>
-      Los campos deben tener la información de la cita a editar <br/>
-      Boton cancelar, Botón de enviar <br/>
-La aplicación deberá ser responsiva. <br/> 
-
-- Requisitos Técnicos: <br/>
-
-    🌐 Aplicación de tipo CRUD (Create, Read, Update, Delete) <br/>
-    🌐 Deberá ser Orientada a objetos con el patrón MVC <br/>
-    🌐 Deberá estar en un servidor gratuito en producción. <br/>
-    🌐 Se debe usar Git con buenas prácticas en los commits. <br/>
-    🌐 El repositorio debe contener un Readme con explicación del proyecto, y una explicación de cómo instalar o ejecutar la aplicación. <br/>
+<h1> 🖥 Requisitos Funcionales </h1>
+   Crear el cuerpo de la serpiente
+   Animar el cuerpo de la serpiente
+   Controlar el movimiento de la serpiente
+   Crear la comida y su respectiva colisión
+   Crear el tablero de puntos
+   Detectar las colisiones con las cuatro paredes
+   Detectar la colisión con la cola o cualquier segmento del cuerpo de la serpiente
 
 
-<h1> Deploy page <h1>
-   http://appointment-dev.freecluster.eu/crud-citas-poo-mvc/ <br/>
 
-   
-   
-   ![formulario-citas](https://user-images.githubusercontent.com/78703403/160642528-0a84f509-0d45-4b6a-b7f5-f476e9b4f152.png)
-    ![Captura de pantalla 2022-03-29 112908](https://user-images.githubusercontent.com/78703403/160660700-3370763a-e510-4322-a4bb-97d554bded07.png)
 
-   
 
