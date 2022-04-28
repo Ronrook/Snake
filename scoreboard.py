@@ -24,4 +24,4 @@ class Scoreboard(Turtle):
     
     def game_over(self):
         self.goto(0,0)
-        self.write(f"El Juego termino su puntaje es: {self.score}", font=FONT, align= ALIGN)
+        self.write(f"¡El Juego terminado! su puntaje es: {self.score}", font=FONT, align= ALIGN)
