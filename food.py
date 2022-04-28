@@ -8,7 +8,7 @@ class Food(Turtle): #Crear clase Food, la herencia es entre parentesis, en este 
         super().__init__() #hereda todo de Turtle 
         self.shape("circle")
         self.penup()
-        self.shapesize(stretch_len=0.5, stretch_wid=0.5)
+        self.shapesize(stretch_len=0.5, stretch_wid=0.5) # Definir tanano food
         self.color("green")
         self.refresh()
         
