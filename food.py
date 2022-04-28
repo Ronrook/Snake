@@ -13,7 +13,7 @@ class Food(Turtle): #Crear clase Food, la herencia es entre parentesis, en este 
         self.refresh()
         
 
-
+    # Generar Food de forma aleatorio en la Screen
     def refresh(self):
         random_x = random.randint(-200, 200)
         random_y = random.randint(-200, 200)
